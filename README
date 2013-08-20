@@ -1,0 +1,9 @@
+# Ride Data
+
+A web app for posting and analyzing ride data.
+
+# TODO
+
+* Read in ride data from csv files.
+* Calculate ride stats.
+* Create charts.
